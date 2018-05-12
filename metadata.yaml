@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25146
     wikipedia: http://en.wikipedia.org/wiki/Harl_Vincent
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29408#Wanderer-of-Infinity
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
